@@ -1,0 +1,14 @@
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Windows.winmd
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.WindowsRuntime.xml
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
